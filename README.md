@@ -1,6 +1,6 @@
 ### Hi my name is Sean and I am an aspiring Software Developer
 - [Personal Portfolio]( https://s-ruth.dev/)
-- [LinkenIn]( https://www.linkedin.com/in/sean-w-ruth/)
+- [LinkedIn]( https://www.linkedin.com/in/sean-w-ruth/)
 <!--
 **Sruth827/Sruth827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
